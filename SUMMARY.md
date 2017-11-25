@@ -89,7 +89,9 @@
     * [指南](seoxi-tong/suan-fa/zhi-nan.md)
     * [最新动态](seoxi-tong/suan-fa/zui-xin-dong-tai.md)
   * [服务器](seoxi-tong/fu-wu-qi.md)
-  * W3C
+  * [W3C](seoxi-tong/w3c.md)
+    * [W3C标准](seoxi-tong/w3c/w3cbiao-zhun.md)
+    * 网站架构
   * 策略
   * 案例
   * 其他
