@@ -24,4 +24,5 @@
     * [内容](chapter1/seoji-chu/nei-rong.md)
     * [链接](chapter1/seoji-chu/lian-jie.md)
     * [HTML](chapter1/seoji-chu/html.md)
+    * [技术](chapter1/seoji-chu/ji-zhu.md)
 
