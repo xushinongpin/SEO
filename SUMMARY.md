@@ -104,7 +104,7 @@
   * 其他
     * [日志分析](seoxi-tong/ri-zhi-fen-xi.md)
     * [词库](seoxi-tong/ci-ku.md)
-    * 方案撰写
+    * [方案撰写](seoxi-tong/fang-an-zhuan-xie.md)
     * 团队建设
 * [数据分析](shu-ju-fen-xi.md)
   * 综述
