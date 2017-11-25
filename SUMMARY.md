@@ -72,4 +72,12 @@
       * [长尾词列表](seomo-xing/nei-rong/zhan-nei-you-hua/chang-wei-ci-lie-biao.md)
       * [锚文本](seomo-xing/nei-rong/zhan-nei-you-hua/mao-wen-ben.md)
       * [SEO频道](seomo-xing/nei-rong/zhan-nei-you-hua/seopin-dao.md)
+  * [外链](seomo-xing/wai-lian.md)
+    * [历史和价值](seomo-xing/wai-lian/li-shi-he-jia-zhi.md)
+    * 资源分析
+    * 操作
+    * 注意事项
+    * 策略
+  * 心态
+  * 程序
 
