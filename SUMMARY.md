@@ -107,7 +107,7 @@
     * [方案撰写](seoxi-tong/fang-an-zhuan-xie.md)
     * [团队建设](seoxi-tong/tuan-dui-jian-she.md)
 * [数据分析](shu-ju-fen-xi.md)
-  * 综述
+  * [综述](shu-ju-fen-xi/zong-shu.md)
   * 流量
   * 爬虫
   * 底层
