@@ -114,7 +114,11 @@
   * [运营](shu-ju-fen-xi/yun-ying.md)
   * [竞争对手](shu-ju-fen-xi/jing-zheng-dui-shou.md)
 * [营销推广](ying-xiao-tui-guang.md)
-  * 微博
+  * [微博](ying-xiao-tui-guang/wei-bo.md)
+    * [要不要开微博](ying-xiao-tui-guang/wei-bo/yao-bu-yao-kai-wei-bo.md)
+    * 如何开微博
+    * 营销策略
+    * 注意事项
   * 软文
   * EDM
 
