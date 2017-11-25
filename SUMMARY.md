@@ -77,7 +77,7 @@
     * [资源分析](seomo-xing/wai-lian/zi-yuan-fen-xi.md)
     * [操作](seomo-xing/wai-lian/cao-zuo.md)
     * [注意事项](seomo-xing/wai-lian/zhu-yi-shi-xiang.md)
-    * 策略
+    * [策略](seomo-xing/wai-lian/ce-lve.md)
   * 心态
   * 程序
 
