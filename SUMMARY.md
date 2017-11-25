@@ -80,6 +80,6 @@
     * [策略](seomo-xing/wai-lian/ce-lve.md)
   * 心态
     * [执行力](seomo-xing/zhi-xing-li.md)
-    * SEO层次和方向
+    * [SEO层次和方向](seomo-xing/seoceng-ci-he-fang-xiang.md)
   * 程序
 
