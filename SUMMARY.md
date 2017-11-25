@@ -103,7 +103,7 @@
     * [企业站](seoxi-tong/an-li/qi-ye-zhan.md)
   * 其他
     * [日志分析](seoxi-tong/ri-zhi-fen-xi.md)
-    * 词库
+    * [词库](seoxi-tong/ci-ku.md)
     * 方案撰写
     * 团队建设
 * [数据分析](shu-ju-fen-xi.md)
