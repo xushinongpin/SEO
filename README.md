@@ -1,3 +1,24 @@
-# My Awesome Book
+	入门指南
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+		趋势
+
+			电子商务与搜索引擎
+
+			流量与搜索引擎
+
+				创遭流量
+
+				获取流量
+
+			搜索引擎与SEO
+
+				自然排名
+
+				付费流量
+
+					定向流量【转化率比较高的流量】
+
+			SEO与我们
+
+				只要有搜索就有SEO
+
