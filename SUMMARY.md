@@ -13,4 +13,8 @@
     * [绑定域名](chapter1/fu-wu-qi/bang-ding-yu-ming.md)
     * [IP](chapter1/fu-wu-qi/ip.md)
     * [日志](chapter1/fu-wu-qi/ri-zhi.md)
+  * 建站程序
+    * [介绍](chapter1/jie-shao.md)
+    * [博客](chapter1/bo-ke.md)
+    * [企业](chapter1/qi-ye.md)
 
