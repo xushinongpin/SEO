@@ -70,6 +70,6 @@
       * [站内站](seomo-xing/nei-rong/jie-gou/zhan-nei-zhan.md)
     * [站内优化](seomo-xing/nei-rong/zhan-nei-you-hua.md)
       * [长尾词列表](seomo-xing/nei-rong/zhan-nei-you-hua/chang-wei-ci-lie-biao.md)
-      * 锚文本
+      * [锚文本](seomo-xing/nei-rong/zhan-nei-you-hua/mao-wen-ben.md)
       * SEO频道
 
