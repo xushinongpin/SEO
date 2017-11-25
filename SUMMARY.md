@@ -108,7 +108,7 @@
     * [团队建设](seoxi-tong/tuan-dui-jian-she.md)
 * [数据分析](shu-ju-fen-xi.md)
   * [综述](shu-ju-fen-xi/zong-shu.md)
-  * 流量
+  * [流量](shu-ju-fen-xi/liu-liang.md)
   * 爬虫
   * 底层
   * 运营
