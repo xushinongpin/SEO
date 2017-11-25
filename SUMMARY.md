@@ -50,4 +50,9 @@
       * [长尾词策略](seomo-xing/nei-rong/wa-ci/chang-wei-ci-ce-lve.md)
       * [长尾词词根挖掘思路](seomo-xing/nei-rong/wa-ci/chang-wei-ci-ci-gen-wa-jue-si-lu.md)
       * [海量长尾词挖掘](seomo-xing/nei-rong/wa-ci/hai-liang-chang-wei-ci-wa-jue.md)
+    * [整站布局](seomo-xing/nei-rong/zheng-zhan-bu-ju.md)
+      * [导航型搜索关键词布局](seomo-xing/nei-rong/zheng-zhan-bu-ju/dao-hang-xing-sou-suo-guan-jian-ci-bu-ju.md)
+      * 信息型搜索关键词布局
+      * 交易型搜索关键词布局
+      * 总结
 
