@@ -121,7 +121,7 @@
     * [注意事项](ying-xiao-tui-guang/wei-bo/zhu-yi-shi-xiang.md)
   * 软文
     * [软文基础](ying-xiao-tui-guang/ruan-wen-ji-chu.md)
-    * 如何写软文
+    * [如何写软文](ying-xiao-tui-guang/ru-he-xie-ruan-wen.md)
     * 推荐书籍
   * EDM
 
