@@ -97,7 +97,10 @@
     * [增加收录](seoxi-tong/ce-lve/zeng-jia-shou-lu.md)
     * [提高排名](seoxi-tong/ce-lve/ti-gao-pai-ming.md)
     * [点击率](seoxi-tong/ce-lve/dian-ji-lv.md)
-  * 案例
+  * [案例](seoxi-tong/an-li.md)
+    * [单页站](seoxi-tong/an-li/dan-ye-zhan.md)
+    * 博客站
+    * 企业站
   * 其他
 * [数据分析](shu-ju-fen-xi.md)
   * 综述
