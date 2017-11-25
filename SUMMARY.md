@@ -53,6 +53,6 @@
     * [整站布局](seomo-xing/nei-rong/zheng-zhan-bu-ju.md)
       * [导航型搜索关键词布局](seomo-xing/nei-rong/zheng-zhan-bu-ju/dao-hang-xing-sou-suo-guan-jian-ci-bu-ju.md)
       * [信息型搜索关键词布局](seomo-xing/nei-rong/zheng-zhan-bu-ju/xin-xi-xing-sou-suo-guan-jian-ci-bu-ju.md)
-      * 交易型搜索关键词布局
+      * [交易型搜索关键词布局](seomo-xing/nei-rong/zheng-zhan-bu-ju/jiao-yi-xing-sou-suo-guan-jian-ci-bu-ju.md)
       * 总结
 
