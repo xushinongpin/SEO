@@ -116,7 +116,7 @@
 * [营销推广](ying-xiao-tui-guang.md)
   * [微博](ying-xiao-tui-guang/wei-bo.md)
     * [要不要开微博](ying-xiao-tui-guang/wei-bo/yao-bu-yao-kai-wei-bo.md)
-    * 如何开微博
+    * [如何开微博](ying-xiao-tui-guang/wei-bo/ru-he-kai-wei-bo.md)
     * 营销策略
     * 注意事项
   * 软文
