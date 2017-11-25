@@ -47,7 +47,7 @@
       * [确定行业](seomo-xing/nei-rong/wa-ci/que-ding-xing-ye.md)
       * [确定目标关键词](seomo-xing/nei-rong/wa-ci/que-ding-mu-biao-guan-jian-ci.md)
       * [如何判断竞争度](seomo-xing/nei-rong/wa-ci/ru-he-pan-duan-jing-zheng-du.md)
-      * 长尾词策略
+      * [长尾词策略](seomo-xing/nei-rong/wa-ci/chang-wei-ci-ce-lve.md)
       * 长尾词词根挖掘思路
       * 海量长尾词挖掘
 
