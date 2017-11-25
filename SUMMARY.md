@@ -58,4 +58,9 @@
     * [标题](seomo-xing/nei-rong/biao-ti.md)
       * [概念和分类](seomo-xing/nei-rong/biao-ti/gai-nian-he-fen-lei.md)
       * [写法和注意点](seomo-xing/nei-rong/biao-ti/xie-fa-he-zhu-yi-dian.md)
+    * 文章
+      * [原创](seomo-xing/nei-rong/yuan-chuang.md)
+      * 质量
+      * 技术
+      * 频率
 
