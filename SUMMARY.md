@@ -68,4 +68,8 @@
       * [调用相关和最新文章](seomo-xing/nei-rong/jie-gou/diao-yong-xiang-guan-he-zui-xin-wen-zhang.md)
       * [次导航](seomo-xing/nei-rong/jie-gou/ci-dao-hang.md)
       * [站内站](seomo-xing/nei-rong/jie-gou/zhan-nei-zhan.md)
+    * [站内优化](seomo-xing/nei-rong/zhan-nei-you-hua.md)
+      * [长尾词列表](seomo-xing/nei-rong/zhan-nei-you-hua/chang-wei-ci-lie-biao.md)
+      * 锚文本
+      * SEO频道
 
