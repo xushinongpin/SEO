@@ -111,7 +111,7 @@
   * [流量](shu-ju-fen-xi/liu-liang.md)
   * [爬虫](shu-ju-fen-xi/pa-chong.md)
   * [底层](shu-ju-fen-xi/di-ceng.md)
-  * 运营
+  * [运营](shu-ju-fen-xi/yun-ying.md)
   * 竞争对手
 * [营销推广](ying-xiao-tui-guang.md)
   * 微博
