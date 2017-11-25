@@ -79,5 +79,7 @@
     * [注意事项](seomo-xing/wai-lian/zhu-yi-shi-xiang.md)
     * [策略](seomo-xing/wai-lian/ce-lve.md)
   * 心态
+    * [执行力](seomo-xing/zhi-xing-li.md)
+    * SEO层次和方向
   * 程序
 
