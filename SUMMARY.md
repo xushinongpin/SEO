@@ -33,4 +33,7 @@
     * [广告联盟](chapter1/guang-gao-lian-meng.md)
     * [推广](chapter1/tui-guang.md)
   * [PPC（Pay Per Click）](chapter1/ppcpay-per-click.md)
+* [SEO模型](seomo-xing.md)
+  * [排名](seomo-xing/pai-ming.md)
+    * [原理](seomo-xing/pai-ming/yuan-li.md)
 
