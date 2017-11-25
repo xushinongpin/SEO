@@ -52,7 +52,7 @@
       * [海量长尾词挖掘](seomo-xing/nei-rong/wa-ci/hai-liang-chang-wei-ci-wa-jue.md)
     * [整站布局](seomo-xing/nei-rong/zheng-zhan-bu-ju.md)
       * [导航型搜索关键词布局](seomo-xing/nei-rong/zheng-zhan-bu-ju/dao-hang-xing-sou-suo-guan-jian-ci-bu-ju.md)
-      * 信息型搜索关键词布局
+      * [信息型搜索关键词布局](seomo-xing/nei-rong/zheng-zhan-bu-ju/xin-xi-xing-sou-suo-guan-jian-ci-bu-ju.md)
       * 交易型搜索关键词布局
       * 总结
 
