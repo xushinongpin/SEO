@@ -20,4 +20,8 @@
     * [论坛](chapter1/lun-tan.md)
     * [商城](chapter1/shang-cheng.md)
     * [其他](chapter1/qi-ta.md)
+  * [SEO基础](chapter1/seoji-chu.md)
+    * [内容](chapter1/seoji-chu/nei-rong.md)
+    * [链接](chapter1/seoji-chu/lian-jie.md)
+    * [HTML](chapter1/seoji-chu/html.md)
 
