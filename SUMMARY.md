@@ -86,7 +86,7 @@
   * [算法](seoxi-tong/suan-fa.md)
     * [原理](seoxi-tong/suan-fa/yuan-li.md)
     * [分词技术](seoxi-tong/suan-fa/fen-ci-ji-zhu.md)
-    * 指南
+    * [指南](seoxi-tong/suan-fa/zhi-nan.md)
     * 最新动态
   * 服务器
   * W3C
