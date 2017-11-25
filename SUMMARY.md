@@ -27,10 +27,10 @@
     * [技术](chapter1/seoji-chu/ji-zhu.md)
     * [工具](chapter1/seoji-chu/gong-ju.md)
     * [黑帽](chapter1/seoji-chu/hei-mao.md)
-  * SEO应用
+  * [SEO应用](chapter1/seoying-yong.md)
     * [淘宝客](chapter1/tao-bao-ke.md)
     * [SEO顾问](chapter1/seogu-wen.md)
     * [广告联盟](chapter1/guang-gao-lian-meng.md)
     * [推广](chapter1/tui-guang.md)
-    * [PPC（Pay Per Click）](chapter1/ppcpay-per-click.md)
+  * [PPC（Pay Per Click）](chapter1/ppcpay-per-click.md)
 
