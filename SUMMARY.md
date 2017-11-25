@@ -92,7 +92,11 @@
   * [W3C](seoxi-tong/w3c.md)
     * [W3C标准](seoxi-tong/w3c/w3cbiao-zhun.md)
     * [网站架构](seoxi-tong/w3c/wang-zhan-jia-gou.md)
-  * 策略
+  * [策略](seoxi-tong/ce-lve.md)
+    * [项目分析](seoxi-tong/ce-lve/xiang-mu-fen-xi.md)
+    * 增加收录
+    * 提高排名
+    * 点击率
   * 案例
   * 其他
 * [数据分析](shu-ju-fen-xi.md)
