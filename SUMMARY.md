@@ -49,5 +49,5 @@
       * [如何判断竞争度](seomo-xing/nei-rong/wa-ci/ru-he-pan-duan-jing-zheng-du.md)
       * [长尾词策略](seomo-xing/nei-rong/wa-ci/chang-wei-ci-ce-lve.md)
       * [长尾词词根挖掘思路](seomo-xing/nei-rong/wa-ci/chang-wei-ci-ci-gen-wa-jue-si-lu.md)
-      * 海量长尾词挖掘
+      * [海量长尾词挖掘](seomo-xing/nei-rong/wa-ci/hai-liang-chang-wei-ci-wa-jue.md)
 
