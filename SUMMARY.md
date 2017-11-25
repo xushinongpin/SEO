@@ -61,6 +61,6 @@
     * 文章
       * [原创](seomo-xing/nei-rong/yuan-chuang.md)
       * [质量](seomo-xing/nei-rong/zhi-liang.md)
-      * 技术
+      * [技术](seomo-xing/nei-rong/ji-zhu.md)
       * 频率
 
