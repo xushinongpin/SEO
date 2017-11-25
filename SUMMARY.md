@@ -25,4 +25,5 @@
     * [链接](chapter1/seoji-chu/lian-jie.md)
     * [HTML](chapter1/seoji-chu/html.md)
     * [技术](chapter1/seoji-chu/ji-zhu.md)
+    * [工具](chapter1/seoji-chu/gong-ju.md)
 
