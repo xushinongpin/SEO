@@ -120,5 +120,8 @@
     * [营销策略](ying-xiao-tui-guang/wei-bo/ying-xiao-ce-lve.md)
     * [注意事项](ying-xiao-tui-guang/wei-bo/zhu-yi-shi-xiang.md)
   * 软文
+    * [软文基础](ying-xiao-tui-guang/ruan-wen-ji-chu.md)
+    * 如何写软文
+    * 推荐书籍
   * EDM
 
