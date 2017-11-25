@@ -118,7 +118,7 @@
     * [要不要开微博](ying-xiao-tui-guang/wei-bo/yao-bu-yao-kai-wei-bo.md)
     * [如何开微博](ying-xiao-tui-guang/wei-bo/ru-he-kai-wei-bo.md)
     * [营销策略](ying-xiao-tui-guang/wei-bo/ying-xiao-ce-lve.md)
-    * 注意事项
+    * [注意事项](ying-xiao-tui-guang/wei-bo/zhu-yi-shi-xiang.md)
   * 软文
   * EDM
 
