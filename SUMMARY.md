@@ -67,5 +67,5 @@
       * [用户行为分析和F型、树形结构](seomo-xing/nei-rong/jie-gou/yong-hu-xing-wei-fen-xi-he-f-xing-3001-shu-xing-jie-gou.md)
       * [调用相关和最新文章](seomo-xing/nei-rong/jie-gou/diao-yong-xiang-guan-he-zui-xin-wen-zhang.md)
       * [次导航](seomo-xing/nei-rong/jie-gou/ci-dao-hang.md)
-      * 站内站
+      * [站内站](seomo-xing/nei-rong/jie-gou/zhan-nei-zhan.md)
 
