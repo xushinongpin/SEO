@@ -36,4 +36,5 @@
 * [SEO模型](seomo-xing.md)
   * [排名](seomo-xing/pai-ming.md)
     * [原理](seomo-xing/pai-ming/yuan-li.md)
+    * [选词](seomo-xing/pai-ming/xuan-ci.md)
 
