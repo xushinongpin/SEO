@@ -95,7 +95,7 @@
   * [策略](seoxi-tong/ce-lve.md)
     * [项目分析](seoxi-tong/ce-lve/xiang-mu-fen-xi.md)
     * [增加收录](seoxi-tong/ce-lve/zeng-jia-shou-lu.md)
-    * 提高排名
+    * [提高排名](seoxi-tong/ce-lve/ti-gao-pai-ming.md)
     * 点击率
   * 案例
   * 其他
