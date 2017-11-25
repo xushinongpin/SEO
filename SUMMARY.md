@@ -100,7 +100,7 @@
   * [案例](seoxi-tong/an-li.md)
     * [单页站](seoxi-tong/an-li/dan-ye-zhan.md)
     * [博客站](seoxi-tong/an-li/bo-ke-zhan.md)
-    * 企业站
+    * [企业站](seoxi-tong/an-li/qi-ye-zhan.md)
   * 其他
 * [数据分析](shu-ju-fen-xi.md)
   * 综述
