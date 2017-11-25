@@ -91,7 +91,7 @@
   * [服务器](seoxi-tong/fu-wu-qi.md)
   * [W3C](seoxi-tong/w3c.md)
     * [W3C标准](seoxi-tong/w3c/w3cbiao-zhun.md)
-    * 网站架构
+    * [网站架构](seoxi-tong/w3c/wang-zhan-jia-gou.md)
   * 策略
   * 案例
   * 其他
