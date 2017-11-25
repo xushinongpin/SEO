@@ -94,7 +94,7 @@
     * [网站架构](seoxi-tong/w3c/wang-zhan-jia-gou.md)
   * [策略](seoxi-tong/ce-lve.md)
     * [项目分析](seoxi-tong/ce-lve/xiang-mu-fen-xi.md)
-    * 增加收录
+    * [增加收录](seoxi-tong/ce-lve/zeng-jia-shou-lu.md)
     * 提高排名
     * 点击率
   * 案例
