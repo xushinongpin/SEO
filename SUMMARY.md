@@ -27,4 +27,6 @@
     * [技术](chapter1/seoji-chu/ji-zhu.md)
     * [工具](chapter1/seoji-chu/gong-ju.md)
     * [黑帽](chapter1/seoji-chu/hei-mao.md)
+  * SEO应用
+    * [淘宝客](chapter1/tao-bao-ke.md)
 
