@@ -123,5 +123,5 @@
     * [软文基础](ying-xiao-tui-guang/ruan-wen-ji-chu.md)
     * [如何写软文](ying-xiao-tui-guang/ru-he-xie-ruan-wen.md)
     * [推荐书籍](ying-xiao-tui-guang/tui-jian-shu-ji.md)
-  * EDM
+  * [EDM](ying-xiao-tui-guang/edm.md)
 
