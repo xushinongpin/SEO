@@ -40,4 +40,5 @@
     * [布局](seomo-xing/pai-ming/bu-ju.md)
     * [标题](seomo-xing/pai-ming/biao-ti.md)
     * [内容](seomo-xing/pai-ming/nei-rong.md)
+    * [外链](seomo-xing/pai-ming/wai-lian.md)
 
