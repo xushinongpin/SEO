@@ -19,4 +19,5 @@
     * [企业](chapter1/qi-ye.md)
     * [论坛](chapter1/lun-tan.md)
     * [商城](chapter1/shang-cheng.md)
+    * [其他](chapter1/qi-ta.md)
 
