@@ -82,4 +82,26 @@
     * [执行力](seomo-xing/zhi-xing-li.md)
     * [SEO层次和方向](seomo-xing/seoceng-ci-he-fang-xiang.md)
   * [程序](seomo-xing/cheng-xu.md)
+* [SEO系统](seoxi-tong.md)
+  * [算法](seoxi-tong/suan-fa.md)
+    * [原理](seoxi-tong/suan-fa/yuan-li.md)
+    * 分词技术
+    * 指南
+    * 最新动态
+  * 服务器
+  * W3C
+  * 策略
+  * 案例
+  * 其他
+* [数据分析](shu-ju-fen-xi.md)
+  * 综述
+  * 流量
+  * 爬虫
+  * 底层
+  * 运营
+  * 竞争对手
+* [营销推广](ying-xiao-tui-guang.md)
+  * 微博
+  * 软文
+  * EDM
 
