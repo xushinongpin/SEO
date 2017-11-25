@@ -57,6 +57,6 @@
       * [总结](seomo-xing/nei-rong/zheng-zhan-bu-ju/zong-jie.md)
     * [标题](seomo-xing/nei-rong/biao-ti.md)
       * [概念和分类](seomo-xing/nei-rong/biao-ti/gai-nian-he-fen-lei.md)
-      * 写法和注意点
+      * [写法和注意点](seomo-xing/nei-rong/biao-ti/xie-fa-he-zhu-yi-dian.md)
       * 写标题注意点
 
