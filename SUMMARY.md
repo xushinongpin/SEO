@@ -74,7 +74,7 @@
       * [SEO频道](seomo-xing/nei-rong/zhan-nei-you-hua/seopin-dao.md)
   * [外链](seomo-xing/wai-lian.md)
     * [历史和价值](seomo-xing/wai-lian/li-shi-he-jia-zhi.md)
-    * 资源分析
+    * [资源分析](seomo-xing/wai-lian/zi-yuan-fen-xi.md)
     * 操作
     * 注意事项
     * 策略
