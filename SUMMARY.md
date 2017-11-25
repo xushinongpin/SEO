@@ -88,7 +88,7 @@
     * [分词技术](seoxi-tong/suan-fa/fen-ci-ji-zhu.md)
     * [指南](seoxi-tong/suan-fa/zhi-nan.md)
     * [最新动态](seoxi-tong/suan-fa/zui-xin-dong-tai.md)
-  * 服务器
+  * [服务器](seoxi-tong/fu-wu-qi.md)
   * W3C
   * 策略
   * 案例
