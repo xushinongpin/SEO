@@ -1,4 +1,5 @@
 ```
+GitHub地址： https://github.com/xushinongpin/SEO
 入门指南
 
     趋势
@@ -23,8 +24,6 @@
 
             只要有搜索就有SEO
 ```
-
-
 
 ## &gt;&gt;搜索引擎网站收录地址大全
 
@@ -109,8 +108,6 @@
 * SOSO搜搜网站收录提交入口:
   [http://help.soso.com/help\_web\_09.shtml](http://help.soso.com/help_web_09.shtml)
 
-
-
 **&gt;**
 
 **&gt;**
@@ -137,8 +134,6 @@
   [http://www.bing.com/toolbox/submit-site-url](http://www.bing.com/toolbox/submit-site-url)
 * 搜搜博客提交：
   [http://www.soso.com/help/usb/urlsubmit.shtml](http://www.soso.com/help/usb/urlsubmit.shtml)
-
-
 
 **&gt;**
 
@@ -225,8 +220,6 @@
 * Online Society登陆入口：
   [http://www.onlinesociety.org/submit.php](http://www.onlinesociety.org/submit.php)
 
-
-
 **&gt;**
 
 **&gt;**
@@ -312,8 +305,6 @@
 * 258商业搜索：
   [http://www.258.com/service/submit.php](http://www.258.com/service/submit.php)
 
-
-
 **&gt;**
 
 **&gt;**
@@ -338,8 +329,6 @@
   ：主要作用是网站安全检测,漏洞修复,漏洞扫描等功能。
 * [Yandex 网站管理工具](http://webmaster.yandex.com/)
   ：Yandex是俄罗斯第一大搜索引擎,也是欧洲第二大流行搜索引擎，创建于1997年。
-
-
 
 **&gt;**
 
@@ -434,8 +423,6 @@
 * 亿起发--开放平台：
   [http://open.yiqifa.com/](http://open.yiqifa.com/)
 
-
-
 **&gt;**
 
 **&gt;**
@@ -471,8 +458,6 @@
 * Yahoo!：
   [https://siteexplorer.search.yahoo.com/](https://siteexplorer.search.yahoo.com/)
   雅虎英文站，因为同微软的bing合作关系，提交sitemap后提示已经提交给了微软。
-
-
 
 **网站**
 
